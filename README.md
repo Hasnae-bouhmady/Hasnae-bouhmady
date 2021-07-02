@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 👯
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to code  and learn new things 
+<!-- ⚡ Fun fact: I love  coding and learning new things -->
 
 ### Spotify Playing 🎧
 
