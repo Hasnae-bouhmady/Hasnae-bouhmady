@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hasnae Bouhmady 
 
 
-## I'm software engineering student !!
+## I'm  a software engineering student !!
 
 
 - 🌱 I’m currently learning everything 👯
