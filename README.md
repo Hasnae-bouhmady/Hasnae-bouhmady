@@ -1,20 +1,18 @@
-### Hi there 👋, I'm Hasnae Bouhmady 
-
-
-## I'm  a computer science  engineering student :D
-
-
-- 🌱 I’m currently learning everything 👯
+## :book: About Me
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐  𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎  𝚊𝚝 𝚝𝚑𝚎 Mohammadia School Of Engineers
+- 🌱  currently learning everything 👯
 - 🥅 2021 Goals: Contribute more to Open Source projects
-<!-- ⚡ Fun fact: I love  coding and learning new things -->
+<
 
 <!--### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 -->
-### Connect with me:
-[<img align="left" alt="Hasnae Bouhmady | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!--[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Connect on LinkedIn" title="Connect on LinkedIn"/>](https://linkedin.com/in/hasnae-bouhmady-79b7a31b4)
+
+
 
 <br />
 
@@ -66,8 +64,6 @@
 
 
 
----
-[linkedin]:www.linkedin.com/in/hasnae-bouhmady-79b7a31b4
 
 <!--## My Projects:-->
 
