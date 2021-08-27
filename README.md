@@ -7,12 +7,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - From Morocco 🇲🇦
 
-### Profile Visits
 
 
-![visitors](https://komarev.com/ghpvc/?username=Hasnae-bouhmady&color=dc143c)
 
-<br />
 <!--### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -77,9 +74,10 @@
 <br/>
 
 
-## Github Stats
+<!--## Github Stats-->
 <div>
-  
+ <br/>
+ 
 <a href="https://github-readme-stats.vercel.app/api?username=Hasnae-bouhmady&show_icons=true&theme=gotham">
   <img src="https://github-readme-stats.vercel.app/api?username=Hasnae-bouhmady&show_icons=true&theme=gotham" align="left"/>
 </a>
@@ -91,6 +89,10 @@
 
 <br>
 
+### Profile Visits
+
+
+![visitors](https://komarev.com/ghpvc/?username=Hasnae-bouhmady&color=dc143c)
 
 
 
