@@ -74,6 +74,19 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+## Github Stats
+<div>
+  
+<a href="https://github-readme-stats.vercel.app/api?username=Hasnae-bouhmady&show_icons=true&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasnae-bouhmady&show_icons=true&theme=gotham" align="left"/>
+</a>
+  
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnae-bouhmady&hide=xslt&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnae-bouhmady&hide=xslt&theme=gotham" align="left"/>
+</a>
+</div>
+
+<br>
 
 
 
