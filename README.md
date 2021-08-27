@@ -6,8 +6,12 @@
 - 🌱  currently learning everything 👯
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - From Morocco 🇲🇦
+<br/>
+
+### Profile Visits
 
 
+![visitors](https://komarev.com/ghpvc/?username=Hasnae-bouhmady&color=dc143c)
 
 
 <!--### Spotify Playing 🎧
@@ -87,15 +91,7 @@
 </a>
 </div>
 
-<br/>
-<br/>
-<br/>
 
-
-### Profile Visits
-
-
-![visitors](https://komarev.com/ghpvc/?username=Hasnae-bouhmady&color=dc143c)
 
 
 
