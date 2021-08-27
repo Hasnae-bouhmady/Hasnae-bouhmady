@@ -87,7 +87,7 @@
 </a>
 </div>
 
-<br>
+<br/>
 
 ### Profile Visits
 
