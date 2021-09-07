@@ -1,4 +1,4 @@
-## Hey all amazing Programmers 👋  <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50">
+<h1 align="center"> Hey all amazing Programmers 👋  <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"></h1>
 
 
 ## :book: About Me
