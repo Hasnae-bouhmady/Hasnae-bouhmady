@@ -4,10 +4,7 @@
 ## :book: About Me
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐  𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 @ 𝚝𝚑𝚎 Mohammadia School Of Engineers 🏫
 - 🌱  currently learning everything 👯
-<!--- 🥅 2021 Goals: Contribute more to Open Source projects-->
 - From Morocco 🇲🇦
-<br/>
-
 ### Profile Visits
 
 
