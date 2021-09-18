@@ -2,7 +2,7 @@
 
 
 ## :book: About Me
-- 🎓 �Software Enineering @ � Mohammadia School Of Engineers 🏫
+- 🎓 Studying Software Enineering @  Mohammadia School Of Engineers 🏫
 - 🌱  currently learning everything 👯
 - From Morocco 🇲🇦
 
