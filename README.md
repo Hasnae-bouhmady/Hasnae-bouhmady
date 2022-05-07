@@ -19,7 +19,7 @@
 -->
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
-<a href="mailto:bouhmady.hasnae@gmail.com"> <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
+<a href="mailto:bouhmady.hasnae@student.emi.ac.ma"> <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
 </a>[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Connect on LinkedIn" title="Connect on LinkedIn"/>](https://linkedin.com/in/hasnae-bouhmady-79b7a31b4)
 
 <br />
