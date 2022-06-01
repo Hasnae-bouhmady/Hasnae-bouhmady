@@ -3,7 +3,7 @@
 
 ## :book: About Me
 - 🎓 Studying Software Engineering @  Mohammadia School Of Engineers 🏫
-- 🌱  currently learning new technologies 
+<!--- 🌱  currently learning new technologies -->
 - From Morocco 🇲🇦
 
 
