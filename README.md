@@ -1,22 +1,43 @@
-<h1 align="center"> Hey all amazing Programmers 👋  <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"></h1>
+  <h1 align="center">Hey, I'm Hasnae 👋</h1>
 
 
-## :book: About Me
-- 🎓 Studying Software Engineering @  Mohammadia School Of Engineers 🏫
-<!--- 🌱  currently learning new technologies -->
-- From Morocco 🇲🇦
-
+<h3 align="center">SecOps / DevSecOps Engineer | Cybersecurity Enthusiast 🔐</h3>
 
 ### Profile Visits
 
-
 ![visitors](https://komarev.com/ghpvc/?username=Hasnae-bouhmady&color=dc143c)
 
+## 👩‍💻 About Me
 
-<!--### Spotify Playing 🎧
+- 🔐 SecOps Engineer passionate about security & cloud
+- 📍 Based in Nantes, France
+- 🚀 Currently working on securing cloud platforms & CI/CD pipelines
+- 🎯 Interested in DevSecOps, Cloud Security & Automation
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
--->
+---
+
+## 🛠️ Tech Stack
+
+### 🔐 Security
+- SIEM, Security Monitoring
+- Vulnerability Management
+- IAM / Authentication (Keycloak, OAuth2, JWT)
+
+### ⚙️ DevSecOps
+- GitLab CI/CD
+- Jenkins
+- Docker
+- SonarQube
+- BlackDuck
+
+### ☁️ Cloud & Infra
+- Kubernetes / OpenShift
+- Vault (Secrets Management)
+- Linux / Networking basics
+
+---
+
+
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
 <a href="mailto:bouhmady.hasnae@student.emi.ac.ma"> <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
@@ -98,7 +119,9 @@
 
 
 
+## ✨ Fun Fact
 
+> I love turning security into something simple, understandable and actionable 🔥
 
 
 
