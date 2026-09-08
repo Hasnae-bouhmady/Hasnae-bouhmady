@@ -14,30 +14,6 @@
 - 🚀 Passionate about securing cloud platforms & CI/CD pipelines
 - 🎯 Interested in DevSecOps, Cloud Security & Security Architecture
 
----
-
-## 🛠️ Tech Stack
-
-### 🔐 Security
-- SIEM, Security Monitoring
-- Vulnerability Management
-- IAM / Authentication (Keycloak, OAuth2, JWT)
-
-### ⚙️ DevSecOps
-- GitLab CI/CD
-- Jenkins
-- Docker
-- SonarQube
-- BlackDuck
-
-### ☁️ Cloud & Infra
-- Kubernetes / OpenShift
-- Vault (Secrets Management)
-- Linux / Networking basics
-
----
-
-
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
 <a href="mailto:bouhmady.hasnae@student.emi.ac.ma"> <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
