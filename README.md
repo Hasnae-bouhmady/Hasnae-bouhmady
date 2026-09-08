@@ -1,7 +1,7 @@
   <h1 align="center">Hey, I'm Hasnae 👋</h1>
 
 
-<h3 align="center">SecOps / DevSecOps Engineer | Cybersecurity Enthusiast 🔐</h3>
+<h3 align="center">SecOps Engineer | Cybersecurity Enthusiast 🔐</h3>
 
 ### Profile Visits
 
