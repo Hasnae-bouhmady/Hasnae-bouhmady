@@ -11,8 +11,8 @@
 
 - 🔐 SecOps Engineer passionate about security & cloud
 - 📍 Based in Nantes, France
-- 🚀 Currently working on securing cloud platforms & CI/CD pipelines
-- 🎯 Interested in DevSecOps, Cloud Security & Automation
+- 🚀 Passionate about securing cloud platforms & CI/CD pipelines
+- 🎯 Interested in DevSecOps, Cloud Security & Security Architecture
 
 ---
 
